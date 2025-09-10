@@ -1,2 +1,2 @@
 # trial-devOps
-this is the trial repo for the devOps assignment
+This is the updated README.md to shocase the use of commit
